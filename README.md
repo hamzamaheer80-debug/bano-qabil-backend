@@ -208,3 +208,8 @@ The current `package.json` does not define an automated test suite. Its `npm tes
 - Use a strong, private `JWT_SECRET`. If it is exposed, replace it and require users to log in again.
 - The database must support MongoDB multi-document transactions; standalone MongoDB instances do not support them.
 - This project is a learning project. Review validation, transaction/error handling, authorization, logging, and email configuration before using it with real funds or production data.
+
+
+
+LIVE URL 
+https://bano-qabil-backend-production.up.railway.app/ <= live url
